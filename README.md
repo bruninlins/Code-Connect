@@ -51,13 +51,13 @@
 <br>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/a8076786-7b93-42e7-8c09-91895c4a49ba" width="900">
+<img src="https://github.com/user-attachments/assets/15b0ed2b-7b0f-41ff-88cc-11a4627a7d5c" width="900">
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/a77dbec7-9539-4b9d-b577-0fa4f616d9cf" height="500">
+<img src="https://github.com/user-attachments/assets/ff5ed040-0ecc-4769-a162-776d970853fd" height="500">
 </div>
 
 <br>
