@@ -92,7 +92,7 @@
 
 <p>Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.</p>
 
-<p>Você também pode acessar a plataforma por aqui: <a href="https://codeconnect-app.vercel.app/">CodeConnect</a></p>
+<p>Você também pode acessar a plataforma por aqui: <a href="https://code-connect-mu-one.vercel.app/">CodeConnect</a></p>
 
 <br>
 
